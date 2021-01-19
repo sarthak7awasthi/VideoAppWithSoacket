@@ -1,0 +1,28 @@
+{
+  "name": "videoappwithsocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthak7awasthi/VideoAppWithSocket.git"
+  },
+  "author": "Sarthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthak7awasthi/VideoAppWithSocket/issues"
+  },
+  "homepage": "https://github.com/sarthak7awasthi/VideoAppWithSocket#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
